@@ -38,7 +38,7 @@ def index():
         "current_datetime": datetime.utcnow().isoformat(),
         "github_url": REPO_URL
     }
-    return jsonify(data)
+    return jsonify(data), 200
 
 
 # Handling error pages and wrong redirections
