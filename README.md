@@ -126,6 +126,10 @@ The API is deployed on **[Render](https://render.com/)**, and it is publicly acc
 
 CORS is handled using the `flask_cors` library, ensuring that the API can be accessed by client applications running on different origins.
 
+## Required Backlink
+
+The required backlink is: <a  href="https://hng.tech/hire/python-developers">Python Developers</a>
+
 ## Contributing
 
 If you'd like to contribute to this project, feel free to <a href="https://github.com/dohoudaniel/hng-stage-0/fork">fork the repository</a> and submit a pull request. <!-- For more detailed information, check out the [contributing guidelines](CONTRIBUTING.md). -->

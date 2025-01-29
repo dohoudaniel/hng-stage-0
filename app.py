@@ -36,7 +36,7 @@ def index():
     """
     data = {
         "email": EMAIL,
-        "current_datetime": datetime.utcnow().isoformat() + "Z",
+        "current_datetime": datetime.utcnow().replace(microsecond=0).isoformat() + "Z", # datetime.utcnow().isoformat() + "Z",
         "github_url": REPO_URL
     }
     return jsonify(data), 200  # Return the JSON response with status 200
