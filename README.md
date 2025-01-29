@@ -128,7 +128,7 @@ CORS is handled using the `flask_cors` library, ensuring that the API can be acc
 
 ## Contributing
 
-If you'd like to contribute to this project, feel free to fork the repository and submit a pull request. <!-- For more detailed information, check out the [contributing guidelines](CONTRIBUTING.md). -->
+If you'd like to contribute to this project, feel free to <a href="https://github.com/dohoudaniel/hng-stage-0/fork">fork the repository</a> and submit a pull request. <!-- For more detailed information, check out the [contributing guidelines](CONTRIBUTING.md). -->
 
 <!-- 
 ## License
